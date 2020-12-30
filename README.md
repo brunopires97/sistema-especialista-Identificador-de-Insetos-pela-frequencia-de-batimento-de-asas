@@ -1,5 +1,6 @@
 # sistema-especialista-Identificador-de-Insetos-pela-frequencia-de-batimento-de-asas
 #Autor: Bruno Pires Lourenço
+
 #Email: b.pires.lourenco@gmail.com
 
 1. INTRODUÇÃO
