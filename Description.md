@@ -175,7 +175,7 @@ print()
 
 3. RESULTADOS
   Ao executar o script em posse dos arquivos Dataset C. capitata.csv e Dataset C. Fraterculus.csv, foram obtidos os resultados que podem ser visualizados na tabela abaixo:
- | First Header  | Second Header |
+| First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
