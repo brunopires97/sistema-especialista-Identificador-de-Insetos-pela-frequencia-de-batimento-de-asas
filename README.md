@@ -7,7 +7,7 @@
 
 **SISTEMA ESPECIALISTA DE INSETOS PELA FREQUÊNCIA DE BATIMENTO DE ASAS**
 
-1. INTRODUÇÃO
+**1. INTRODUÇÃO**
 
   O reconhecimento automatizado de insetos é uma demanda para os agricultores, pois possibilita a aplicação correta dos métodos defensivos para as lavouras com uma diminuição nos custos de produção devido a substituição de um especialista humano (mais custoso) por um sistema de especialista. Na região sul temos uma grande produção frutífera, dentre elas a produção de pêssego. Na produção de pêssego uma das pragas que causam grande perda na produção e restrições para a exportação dos frutos são as moscas-das-frutas, sendo a Anastrepha fraterculus e a Ceratitis capitata as duas com maiores incidências.
 
@@ -37,7 +37,7 @@
 - E4-FFT: Intensidade 5ª harmônica pela FFT;
 
 
-2. SISTEMA
+**2. SISTEMA**
 
   Para o desenvolvimento do trabalho foi preciso estabelecer as entradas e saídas do sistema de controle. As funções de entrada são instanciadas com o método Antecedent, que recebe como parâmetros o conjunto universo da variável de entrada e uma etiqueta para identificar tal variável. Já para determinar a saída do sistema, deve ser utilizado o método Consequent, que recebe como parâmetros os mesmos dados, entretanto, referentes à variável de saída. No código a baixo estão as declarações das entradas e saída do sistema de controle.
 ```
@@ -181,7 +181,7 @@ print()
   Após a avaliação dos dois arquivos de teste, foi implementada a inserção de novas entradas a serem classificadas de um arquivo csv. As etapas de aquisição dos dados e de iteração através das entradas do arquivo foram aproveitadas dos algoritmos que já haviam sido implementados no script.
 
 
-3. RESULTADOS
+**3. RESULTADOS**
 
   Ao executar o script em posse dos arquivos Dataset C. capitata.csv e Dataset C. Fraterculus.csv, foram obtidos os resultados que podem ser visualizados na tabela abaixo:
   ```
@@ -202,6 +202,6 @@ print()
   Ao se analisar a tabela acima, é possível perceber que quase a totalidade das entradas de cada um dos arquivos foram classificadas ou como o tipo de mosca correspondente ao arquivo ou foram identificadas como não pertencendo a nenhum dos grupos.
 
 
-4. CONCLUSÃO
+**4. CONCLUSÃO**
 
   Os resultados obtidos foram satisfatórios, visto que as regras de inferência foram construídas a partir da análise de apenas uma porção dos dados coletados.
