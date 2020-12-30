@@ -3,6 +3,8 @@
 
 #Email: b.pires.lourenco@gmail.com
 
+                                    SISTEMA ESPECIALISTA DE INSETOS PELA FREQUÊNCIA DE BATIMENTO DE ASAS
+
 1. INTRODUÇÃO
 
   O reconhecimento automatizado de insetos é uma demanda para os agricultores, pois possibilita a aplicação correta dos métodos defensivos para as lavouras com uma diminuição nos custos de produção devido a substituição de um especialista humano (mais custoso) por um sistema de especialista. Na região sul temos uma grande produção frutífera, dentre elas a produção de pêssego. Na produção de pêssego uma das pragas que causam grande perda na produção e restrições para a exportação dos frutos são as moscas-das-frutas, sendo a Anastrepha fraterculus e a Ceratitis capitata as duas com maiores incidências.
