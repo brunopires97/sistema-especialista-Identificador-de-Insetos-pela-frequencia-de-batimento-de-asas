@@ -175,6 +175,7 @@ print()
 
 3. RESULTADOS
   Ao executar o script em posse dos arquivos Dataset C. capitata.csv e Dataset C. Fraterculus.csv, foram obtidos os resultados que podem ser visualizados na tabela abaixo:
+  ```
 |---------------------------------------------------------------------|
 |              |                         Arquivo                      |
 |--------------|----------------------------|-------------------------|
@@ -188,6 +189,7 @@ print()
 |--------------|----------------------------|-------------------------|
 |     TOTAL    |             397            |            429          |
 |--------------|----------------------------|-------------------------|
+```
   Ao se analisar a tabela acima, é possível perceber que quase a totalidade das entradas de cada um dos arquivos foram classificadas ou como o tipo de mosca correspondente ao arquivo ou foram identificadas como não pertencendo a nenhum dos grupos.
 
 
