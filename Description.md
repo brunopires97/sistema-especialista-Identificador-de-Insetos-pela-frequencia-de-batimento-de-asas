@@ -2,6 +2,7 @@
 #Autor: Bruno Pires Lourenço
 
 1. INTRODUÇÃO
+
   O reconhecimento automatizado de insetos é uma demanda para os agricultores, pois possibilita a aplicação correta dos métodos defensivos para as lavouras com uma diminuição nos custos de produção devido a substituição de um especialista humano (mais custoso) por um sistema de especialista. Na região sul temos uma grande produção frutífera, dentre elas a produção de pêssego. Na produção de pêssego uma das pragas que causam grande perda na produção e restrições para a exportação dos frutos são as moscas-das-frutas, sendo a Anastrepha fraterculus e a Ceratitis capitata as duas com maiores incidências.
 
   Como método defensivo os produtores fazem uso de armadilhas como MacPhail para o monitoramento manual da praga e avaliação da quantidade e tipo de defensivo agrícola para ser aplicado, sendo este método bastante ineficiente e custoso devido a erros de identificação e custo de um especialista humano.
