@@ -32,6 +32,7 @@
 
 
 2. SISTEMA
+
   Para o desenvolvimento do trabalho foi preciso estabelecer as entradas e saídas do sistema de controle. As funções de entrada são instanciadas com o método Antecedent, que recebe como parâmetros o conjunto universo da variável de entrada e uma etiqueta para identificar tal variável. Já para determinar a saída do sistema, deve ser utilizado o método Consequent, que recebe como parâmetros os mesmos dados, entretanto, referentes à variável de saída. No código a baixo estão as declarações das entradas e saída do sistema de controle.
 ```
 freq_F0_aut = ctrl.Antecedent(np.arange(0, freq_limit, 0.5), 'freq_F0_aut')
@@ -175,6 +176,7 @@ print()
 
 
 3. RESULTADOS
+
   Ao executar o script em posse dos arquivos Dataset C. capitata.csv e Dataset C. Fraterculus.csv, foram obtidos os resultados que podem ser visualizados na tabela abaixo:
   ```
 |---------------------------------------------------------------------|
@@ -195,4 +197,5 @@ print()
 
 
 4. CONCLUSÃO
+
   Os resultados obtidos foram satisfatórios, visto que as regras de inferência foram construídas a partir da análise de apenas uma porção dos dados coletados.
